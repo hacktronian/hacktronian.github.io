@@ -19,7 +19,7 @@ Hackdroid is a collection of pentesting and security related apps for android. T
 - OS / Platform : hacking operating system (rom) and platforms for android.
 - Blog : useful articles related to hacking with android.
 
-![upload-image]({{ "/assets/img/blog/hackdroid.png" | relative_url }})
+![upload-image]({{ "/assets/img/blog/hackdroid.apk.png" | relative_url }})
 
 ## Some important things that you should take care of before starting :
 
