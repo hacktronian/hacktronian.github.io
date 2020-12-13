@@ -1,35 +1,67 @@
 ---
+
 title: Hackdroid
 author: Mr.SAGE
 date: 2018-06-02 10:00:00 +0530
 categories: [GitHub, Android]
 tags: [GitHub]
 toc: false
+
 ---
 
-# What is HackDroid ?
+![upload-image]({{ "/assets/img/blog/hackdroid_logo.png" | relative_url }})
+
+## What is HackDroid ?
+
+Hackdroid is a collection of pentesting and security related apps for android. The applications is divided into different categories so you can easily download any application from any category and use them for penetration testing and ethical hacking.
+
+- Android Apps : 250+ apps in 20+ categories like wifi, hid, mitm, sniffing, etc.
+- OS / Platform : hacking operating system (rom) and platforms for android.
+- Blog : useful articles related to hacking with android.
 
 ![upload-image]({{ "/assets/img/blog/hackdroid.png" | relative_url }})
 
-HackDroid is a collection of 250+ Penetration Testing and Ethical Hacking Apps for Android... in this, The Applications is divided into different categories so You can Download any App from any Category and Use it..
+## Some important things that you should take care of before starting :
 
-```
-NOTE : I Don't Have Any Copyright For Any Application.. 
-Copyright Of All Applications Support Their Owners.. & Please Don't Misuse..
-```
+- Most applications will required root permissions so you can install Magisk to root your device or you can also search on Google or XDA Forum for how you can root your device.
 
-# Apps Categories :
+- Never use your primery device for hacking because it is possible that the creators of the application or those who modified it have already put malware on it to steal your personal data. so you will think that with the help of this application you will hack something, but instead of that you are being hacked.
 
-Anonymity, App Store, Call & SmS, CryptoCurrency, Cryptography, DDoS, Forensics, HID Attack, Learning, MITM, Networking, Pentesting, People & File Search, Remote Access, Router, Scripting, Security, Sniffing, Spy Camera, System Apps, Terminal, Web, Whatsapp & Wireless
+- Most apps will be outdated but i try my best to provide the latest version of the application asap.
 
-# How To Download ?
+- I don't have any copyright for any application. the copyright of all applications support their owners.
 
-Open The Link and Click On Download As Zip Option : <http://bit.ly/hackdroid>
+- Don't do anything stupid or illegal. I'm sharing all this information keeping in mind the purpose of penetration testing and ethical hacking not illegal hacking activity so please don't misuse.
 
-![upload-image]({{ "/assets/img/blog/hackdroid_mega_apk.png" | relative_url }})
+## Apps Categories :
+ 
+ - Anonymity
+ - App Store
+ - Call & SmS
+ - CryptoCurrency
+ - Cryptography
+ - DDoS
+ - Forensics
+ - HID Attack
+ - Learning
+ - MITM
+ - Networking
+ - Pentesting
+ - People & File Search
+ - Remote Access
+ - Router
+ - Scripting
+ - Security
+ - Sniffing
+ - Spy Camera
+ - System Apps 
+ - Terminal
+ - Web
+ - Whatsapp
+ - Wireless
 
-That's It... If You Like This Post Please Share This With Your Friends..
+### Download Links : Coming Soon
 
-& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/thehackingsage), [Instagram](https://www.instagram.com/thehackingsage), [Github](https://www.github.com/thehackingsage) & SUBSCRIBE My [YouTube](https://www.youtube.com/channel/UCYK1n9A4TUq1CvGc6F3DzoA) Channel..!!!
+### Video : Coming Soon
 
-***Happy Hacking!!!***
+***Happy Hacking !!!***
