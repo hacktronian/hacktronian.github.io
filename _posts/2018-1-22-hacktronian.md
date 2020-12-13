@@ -1,17 +1,21 @@
 ---
+
 title: Hacktronian
 author: Mr.SAGE
-date: 2018-1-22 10:00:00 +0530
+date: 2018-1-22 17:06:00 +0530
 categories: [GitHub, Tools]
 tags: [GitHub]
 toc: false
+
 ---
 
-# About :
+![upload-image]({{ "/assets/img/blog/hacktronian_2.0.png" | relative_url }})
+
+## About :
 
 A Collection of Information Gathering, Phishing, Sniffing, Spoofing, Wireless Testing, Password Attacks, Web Hacking, Exploitation and Post Exploitation Tool for Linux & Android.
 
-![upload-image]({{ "/assets/img/blog/hacktronian_2.0.png" | relative_url }})
+![upload-image]({{ "/assets/img/blog/hacktronian.png" | relative_url }})
 
 ## Anonymity :
 
@@ -57,29 +61,18 @@ LOIC, HOIC, SlowLoris, DDOSIM, HULK, R-U-Dead-Yet, Tor’s Hammer, GoldenEye
 
 APKtool, Brute Force Android Passcode, Hackdroid, Kali Nethunter, Pwn Phone, Termux
 
-![upload-image]({{ "/assets/img/blog/hacktronian.png" | relative_url }})
+## Installation in Linux :
 
-# Installation in Linux :
+1. `git clone https://github.com/thehackingsage/hacktronian.git`
 
-```terminal
-$ git clone https://github.com/thehackingsage/hacktronian.git
-```
-```terminal
-$ cd hacktronian
-```
-```terminal
-$ chmod +x install.sh
-```
-```terminal
-$ ./install.sh
-```
+2. `cd hacktronian`
+
+3. `chmod +x install.sh`
+
+4. `./install.sh`
 
 That's it.. type `hacktronian` in terminal to execute the tool.
 
-# Video Tutorial : <https://www.youtube.com/watch?v=1LJlyQAQby4>
-
-That's It... If You Like This Post Please Share This With Your Friends..
-
-& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/thehackingsage), [Instagram](https://www.instagram.com/thehackingsage), [Github](https://www.github.com/thehackingsage) & SUBSCRIBE My [YouTube](https://www.youtube.com/channel/UCYK1n9A4TUq1CvGc6F3DzoA) Channel..!!!
+**Video Tutorial : https://www.youtube.com/watch?v=1LJlyQAQby4**
 
 ***Happy Hacking!!!***
